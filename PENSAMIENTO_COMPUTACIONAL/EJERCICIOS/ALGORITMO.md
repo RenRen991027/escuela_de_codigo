@@ -28,12 +28,40 @@ FIN
 
 1 INICIO
 
-2 Declarar (año de nacimiento, año actual, edad): Numeros naturales
+2 Declarar (año de nacimiento, año actual, edad)
 
 3 Ingresar los valores de (año de nacimiento, año actual)
 
 4 edad = año actual - año de nacimiento 
 
 5 Mostrar (edad)
+
+6 FIN
+
+## ALGORITMO QUE CONIVERTA UN DETERMINADO NUMERO DE METROS A YARDAS
+
+1 INICIO
+
+2 Declarar (metros, total en yardas)
+
+3 Ingresar valor de (metros)
+
+4 total en yardas = metros * 1.0936
+
+5 Mostrar (total en yardas)
+
+6 FIN
+
+## ALGORITMO QUEMULTIPLIQUE CUALQUIER NUMERO POR 9
+
+1 INICIO
+
+2 Declarar (número, resultado)
+
+3 Ingresar (número)
+
+4 resultado = número * 9
+
+5 Mostrar (resultado)
 
 6 FIN

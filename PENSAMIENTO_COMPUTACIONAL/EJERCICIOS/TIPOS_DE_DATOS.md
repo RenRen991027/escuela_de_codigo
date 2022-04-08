@@ -11,7 +11,7 @@ NUMEROS DECIMALES:
 
 CARACTER : 
 
-"a", "b", "99", "$", "F"
+'a', 'b', '99', '$', 'F'
 
 CADENA DE CARACTERES : 
 
